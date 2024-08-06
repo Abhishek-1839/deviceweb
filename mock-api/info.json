@@ -1,0 +1,354 @@
+{
+    "appliances": [
+      {
+        "serialNo": "JTD-512312",
+        "theatreName": "Kriplle Square",
+        "location": {
+          "city": "New Delhi",
+          "state": "Delhi",
+          "country": "India"
+        },
+        "bandwidth": "1 Gbps",
+        "avgBandwidth": "812 Kbps",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.2.1.3"
+      },
+      {
+        "serialNo": "JTD-912130",
+        "theatreName": "Galaxy Cinema",
+        "location": {
+          "city": "Mumbai",
+          "state": "Maharashtra",
+          "country": "India"
+        },
+        "bandwidth": "500 Mbps",
+        "avgBandwidth": "450 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.1.0.0"
+      },
+      {
+        "serialNo": "JTD-123456",
+        "theatreName": "Regal Cinema",
+        "location": {
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "country": "India"
+        },
+        "bandwidth": "200 Mbps",
+        "avgBandwidth": "180 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.0.2.1"
+      },
+      {
+        "serialNo": "JTD-789012",
+        "theatreName": "Cineplex Odeon",
+        "location": {
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "country": "India"
+        },
+        "bandwidth": "750 Mbps",
+        "avgBandwidth": "680 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.2.0.1"
+      },
+      {
+        "serialNo": "JTD-345678",
+        "theatreName": "PVR Cinemas",
+        "location": {
+          "city": "Kolkata",
+          "state": "West Bengal",
+          "country": "India"
+        },
+        "bandwidth": "300 Mbps",
+        "avgBandwidth": "275 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.1.1.2"
+      },
+      {
+        "serialNo": "JTD-567890",
+        "theatreName": "INOX Megaplex",
+        "location": {
+          "city": "Pune",
+          "state": "Maharashtra",
+          "country": "India"
+        },
+        "bandwidth": "800 Mbps",
+        "avgBandwidth": "720 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.2.1.4"
+      },
+      {
+        "serialNo": "JTD-234567",
+        "theatreName": "Carnival Cinemas",
+        "location": {
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "country": "India"
+        },
+        "bandwidth": "600 Mbps",
+        "avgBandwidth": "550 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.1.2.0"
+      },
+      {
+        "serialNo": "JTD-890123",
+        "theatreName": "SPI Cinemas",
+        "location": {
+          "city": "Coimbatore",
+          "state": "Tamil Nadu",
+          "country": "India"
+        },
+        "bandwidth": "400 Mbps",
+        "avgBandwidth": "380 Kbps",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.0.3.2"
+      },
+      {
+        "serialNo": "JTD-456789",
+        "theatreName": "Cinepolis",
+        "location": {
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "country": "India"
+        },
+        "bandwidth": "700 Mbps",
+        "avgBandwidth": "650 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.2.0.3"
+      },
+      {
+        "serialNo": "JTD-901234",
+        "theatreName": "AGS Cinemas",
+        "location": {
+          "city": "Madurai",
+          "state": "Tamil Nadu",
+          "country": "India"
+        },
+        "bandwidth": "350 Mbps",
+        "avgBandwidth": "320 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.1.1.3"
+      },
+      {
+        "serialNo": "JTD-678901",
+        "theatreName": "Wave Cinemas",
+        "location": {
+          "city": "Lucknow",
+          "state": "Uttar Pradesh",
+          "country": "India"
+        },
+        "bandwidth": "550 Mbps",
+        "avgBandwidth": "500 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.2.1.1"
+      },
+      {
+        "serialNo": "JTD-345678",
+        "theatreName": "Miraj Cinemas",
+        "location": {
+          "city": "Jaipur",
+          "state": "Rajasthan",
+          "country": "India"
+        },
+        "bandwidth": "450 Mbps",
+        "avgBandwidth": "420 Kbps",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.0.4.0"
+      },
+      {
+        "serialNo": "JTD-123789",
+        "theatreName": "Prasads Multiplex",
+        "location": {
+          "city": "Visakhapatnam",
+          "state": "Andhra Pradesh",
+          "country": "India"
+        },
+        "bandwidth": "650 Mbps",
+        "avgBandwidth": "600 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.1.3.1"
+      },
+      {
+        "serialNo": "JTD-987654",
+        "theatreName": "Fun Cinemas",
+        "location": {
+          "city": "Chandigarh",
+          "state": "Chandigarh",
+          "country": "India"
+        },
+        "bandwidth": "500 Mbps",
+        "avgBandwidth": "470 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.2.0.2"
+      },
+      {
+        "serialNo": "JTD-654321",
+        "theatreName": "Movietime Cinemas",
+        "location": {
+          "city": "Surat",
+          "state": "Gujarat",
+          "country": "India"
+        },
+        "bandwidth": "400 Mbps",
+        "avgBandwidth": "370 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.1.2.3"
+      },
+      {
+        "serialNo": "JTD-246810",
+        "theatreName": "DT Cinemas",
+        "location": {
+          "city": "Gurgaon",
+          "state": "Haryana",
+          "country": "India"
+        },
+        "bandwidth": "750 Mbps",
+        "avgBandwidth": "700 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.2.1.2"
+      },
+      {
+        "serialNo": "JTD-135790",
+        "theatreName": "Urvashi Cinema",
+        "location": {
+          "city": "Bhopal",
+          "state": "Madhya Pradesh",
+          "country": "India"
+        },
+        "bandwidth": "300 Mbps",
+        "avgBandwidth": "280 Kbps",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.0.3.3"
+      },
+      {
+        "serialNo": "JTD-975310",
+        "theatreName": "Mukta A2 Cinemas",
+        "location": {
+          "city": "Nagpur",
+          "state": "Maharashtra",
+          "country": "India"
+        },
+        "bandwidth": "550 Mbps",
+        "avgBandwidth": "520 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.1.3.0"
+      },
+      {
+        "serialNo": "JTD-864209",
+        "theatreName": "Gopalan Cinemas",
+        "location": {
+          "city": "Mysore",
+          "state": "Karnataka",
+          "country": "India"
+        },
+        "bandwidth": "450 Mbps",
+        "avgBandwidth": "430 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.2.0.4"
+      },
+      {
+        "serialNo": "JTD-753951",
+        "theatreName": "Abirami Mega Mall",
+        "location": {
+          "city": "Trichy",
+          "state": "Tamil Nadu",
+          "country": "India"
+        },
+        "bandwidth": "350 Mbps",
+        "avgBandwidth": "330 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.1.1.4"
+      },
+      {
+        "serialNo": "JTD-159753",
+        "theatreName": "City Pride Multiplex",
+        "location": {
+          "city": "Nashik",
+          "state": "Maharashtra",
+          "country": "India"
+        },
+        "bandwidth": "600 Mbps",
+        "avgBandwidth": "570 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.2.1.0"
+      },
+      {
+        "serialNo": "JTD-951753",
+        "theatreName": "Glitz Cinemas",
+        "location": {
+          "city": "Vijayawada",
+          "state": "Andhra Pradesh",
+          "country": "India"
+        },
+        "bandwidth": "400 Mbps",
+        "avgBandwidth": "380 Kbps",
+        "deviceStatus": "Offline",
+        "downloadStatus": "Failed",
+        "osVersion": "5.0.4.1"
+      },
+      {
+        "serialNo": "JTD-357159",
+        "theatreName": "Q Cinemas",
+        "location": {
+          "city": "Kochi",
+          "state": "Kerala",
+          "country": "India"
+        },
+        "bandwidth": "700 Mbps",
+        "avgBandwidth": "660 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.1.2.2"
+      },
+      {
+        "serialNo": "JTD-258147",
+        "theatreName": "M2K Cinemas",
+        "location": {
+          "city": "Rohtak",
+          "state": "Haryana",
+          "country": "India"
+        },
+        "bandwidth": "500 Mbps",
+        "avgBandwidth": "470 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloaded",
+        "osVersion": "5.2.0.0"
+      },
+      {
+        "serialNo": "JTD-147258",
+        "theatreName": "Eros Cinema",
+        "location": {
+          "city": "Dehradun",
+          "state": "Uttarakhand",
+          "country": "India"
+        },
+        "bandwidth": "350 Mbps",
+        "avgBandwidth": "330 Kbps",
+        "deviceStatus": "Online",
+        "downloadStatus": "Downloading",
+        "osVersion": "5.1.3.2"
+      }
+    ]
+  }
