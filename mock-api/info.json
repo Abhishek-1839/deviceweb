@@ -11,7 +11,7 @@
         "bandwidth": "1 Gbps",
         "avgBandwidth": "812 Kbps",
         "deviceStatus": "Offline",
-        "downloadStatus": "Failed",
+        "downloadStatus": "Downloaded",
         "osVersion": "5.2.1.3"
       },
       {
@@ -350,5 +350,331 @@
         "downloadStatus": "Downloading",
         "osVersion": "5.1.3.2"
       }
-    ]
-  }
+    ],
+    "applianceInfo": [
+    {
+      "serialNo": "JTD-512312",
+      "theatreName": "Kriplle Square",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "1 Gbps",
+      "avgBandwidth": "812 Kbps",
+      "planStartDate": "2023-10-01T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.1.3",
+      "storage": "828 GB"
+    },
+    {
+      "serialNo": "JTD-912130",
+      "theatreName": "Galaxy Cinema",
+      "location": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "500 Mbps",
+      "avgBandwidth": "450 Kbps",
+      "planStartDate": "2023-08-15T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.1.0.0",
+      "storage": "500 GB"
+    },
+    {
+      "serialNo": "JTD-123456",
+      "theatreName": "Regal Cinema",
+      "location": {
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "200 Mbps",
+      "avgBandwidth": "180 Kbps",
+      "planStartDate": "2023-05-20T10:00:00Z",
+      "billingCycle": "Quarterly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.0.2.1",
+      "storage": "256 GB"
+    },
+    {
+      "serialNo": "JTD-789012",
+      "theatreName": "Cineplex Odeon",
+      "location": {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Theatre",
+      "bandwidth": "750 Mbps",
+      "avgBandwidth": "680 Kbps",
+      "planStartDate": "2023-11-01T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.0.1",
+      "storage": "1 TB"
+    },
+    {
+      "serialNo": "JTD-345678",
+      "theatreName": "PVR Cinemas",
+      "location": {
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "300 Mbps",
+      "avgBandwidth": "275 Kbps",
+      "planStartDate": "2023-09-01T10:00:00Z",
+      "billingCycle": "Quarterly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.1.1.2",
+      "storage": "512 GB"
+    },
+    {
+      "serialNo": "JTD-512312",
+      "theatreName": "Kriplle Square",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "1 Gbps",
+      "avgBandwidth": "812 Kbps",
+      "planStartDate": "2023-10-01T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.2.1.3",
+      "storage": "828 GB"
+    },
+    {
+      "serialNo": "JTD-912130",
+      "theatreName": "Galaxy Cinema",
+      "location": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "500 Mbps",
+      "avgBandwidth": "450 Kbps",
+      "planStartDate": "2023-08-15T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.1.0.0",
+      "storage": "500 GB"
+    },
+    {
+      "serialNo": "JTD-123456",
+      "theatreName": "Regal Cinema",
+      "location": {
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "200 Mbps",
+      "avgBandwidth": "180 Kbps",
+      "planStartDate": "2023-05-20T10:00:00Z",
+      "billingCycle": "Quarterly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.0.2.1",
+      "storage": "256 GB"
+    },
+    {
+      "serialNo": "JTD-789012",
+      "theatreName": "Cineplex Odeon",
+      "location": {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Theatre",
+      "bandwidth": "750 Mbps",
+      "avgBandwidth": "680 Kbps",
+      "planStartDate": "2023-11-01T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.0.1",
+      "storage": "1 TB"
+    },
+    {
+      "serialNo": "JTD-345678",
+      "theatreName": "PVR Cinemas",
+      "location": {
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "300 Mbps",
+      "avgBandwidth": "275 Kbps",
+      "planStartDate": "2023-09-01T10:00:00Z",
+      "billingCycle": "Quarterly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.1.1.2",
+      "storage": "512 GB"
+    },
+    {
+      "serialNo": "JTD-567890",
+      "theatreName": "INOX Megaplex",
+      "location": {
+        "city": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Theatre",
+      "bandwidth": "800 Mbps",
+      "avgBandwidth": "720 Kbps",
+      "planStartDate": "2023-07-10T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.1.4",
+      "storage": "750 GB"
+    },
+    {
+      "serialNo": "JTD-234567",
+      "theatreName": "Carnival Cinemas",
+      "location": {
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "600 Mbps",
+      "avgBandwidth": "550 Kbps",
+      "planStartDate": "2023-03-01T10:00:00Z",
+      "billingCycle": "Quarterly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.1.2.0",
+      "storage": "600 GB"
+    },
+    {
+      "serialNo": "JTD-890123",
+      "theatreName": "SPI Cinemas",
+      "location": {
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Theatre",
+      "bandwidth": "400 Mbps",
+      "avgBandwidth": "380 Kbps",
+      "planStartDate": "2023-12-01T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.0.3.2",
+      "storage": "400 GB"
+    },
+    {
+      "serialNo": "JTD-456789",
+      "theatreName": "Cinepolis",
+      "location": {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "700 Mbps",
+      "avgBandwidth": "650 Kbps",
+      "planStartDate": "2023-06-15T10:00:00Z",
+      "billingCycle": "Quarterly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.0.3",
+      "storage": "700 GB"
+    },
+    {
+      "serialNo": "JTD-901234",
+      "theatreName": "AGS Cinemas",
+      "location": {
+        "city": "Madurai",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Theatre",
+      "bandwidth": "350 Mbps",
+      "avgBandwidth": "320 Kbps",
+      "planStartDate": "2023-09-25T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloading",
+      "osVersion": "5.1.1.3",
+      "storage": "300 GB"
+    },
+    {
+      "serialNo": "JTD-678901",
+      "theatreName": "Wave Cinemas",
+      "location": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "550 Mbps",
+      "avgBandwidth": "500 Kbps",
+      "planStartDate": "2023-04-20T10:00:00Z",
+      "billingCycle": "Quarterly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.1.1",
+      "storage": "500 GB"
+    },
+    {
+      "serialNo": "JTD-345678",
+      "theatreName": "Miraj Cinemas",
+      "location": {
+        "city": "Jaipur",
+        "state": "Rajasthan",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Theatre",
+      "bandwidth": "450 Mbps",
+      "avgBandwidth": "420 Kbps",
+      "planStartDate": "2023-10-05T10:00:00Z",
+      "billingCycle": "Monthly",
+      "deviceStatus": "Offline",
+      "downloadStatus": "Failed",
+      "osVersion": "5.0.4.0",
+      "storage": "400 GB"
+    },
+    {
+      "serialNo": "JTD-123789",
+      "theatreName": "Prasads Multiplex",
+      "location": {
+        "city": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "country": "India"
+      },
+      "ispPaymentResponsibility": "Qube",
+      "bandwidth": "650 Mbps",
+      "avgBandwidth": "600 Kbps",
+      "planStartDate": "2023-11-20T10:00:00Z",
+      "billingCycle": "Quarterly",
+      "deviceStatus": "Online",
+      "downloadStatus": "Downloaded",
+      "osVersion": "5.2.0.2",
+      "storage": "600 GB"
+    }
+  ]
+}

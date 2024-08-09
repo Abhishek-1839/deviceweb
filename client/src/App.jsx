@@ -1,19 +1,20 @@
-
-import { Provider } from 'react-redux'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css'
 import Fetching from './component/Fetching'
-import store from './functions/store'
-import Filter from './functions/Filter'
+import DeviceDetail from './component/DeviceDetail';
+
 
 
 function App() {
   
 
   return (
-    <Provider store={store}>
-      
-  <Fetching />
-  </Provider>
+    <Router>
+    <Routes>
+      <Route path="/" element={<Fetching />} />
+      <Route path="/device/:id" element={<DeviceDetail />} />
+    </Routes>
+  </Router>
   )
 }
 
