@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css'
-import Fetching from './component/Fetching'
+import Devices from './component/Devices'
 import DeviceDetail from './component/DeviceDetail';
 
 
@@ -11,8 +11,8 @@ function App() {
   return (
     <Router>
     <Routes>
-      <Route path="/" element={<Fetching />} />
-      <Route path="/device/:id" element={<DeviceDetail />} />
+      <Route path="/" element={<Devices />} />
+      <Route path="/:id" element={<DeviceDetail />} />
     </Routes>
   </Router>
   )

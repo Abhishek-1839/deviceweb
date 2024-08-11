@@ -194,8 +194,9 @@ import StatusBar from './StatusBar';
 import './Fetching.css';
 import './StatusIndicator.css';
 
-const Fetching = () => {
+const Devices = () => {
   const [products, setProducts] = useState([]);
+  const [applianceInfo, setApplianceInfo] = useState([]);
   const [error, setError] = useState(null);
   const [headers, setHeaders] = useState([]);
   const [currentPage, setCurrentPage] = useState(1);
@@ -211,6 +212,7 @@ const Fetching = () => {
         if (response.status === 200) {
           const fetched = response.data;
           setProducts(fetched.appliances);
+          setApplianceInfo(fetched.applianceInfo);
           if (fetched.appliances.length > 0) {
             setHeaders(Object.keys(fetched.appliances[0]));
           }
@@ -259,7 +261,8 @@ const Fetching = () => {
 
   const handleView = (device) => {
     if (device) {
-      navigate(`/device/${device.id}`, { state: { device } });
+      const deviceInfo = applianceInfo.find(info => info.serialNo === device.serialNo);
+      navigate(`/${device.serialNo}`, { state: { device, deviceInfo } });
     } else {
       console.error('Device is undefined');
     }
@@ -332,4 +335,4 @@ const Fetching = () => {
   );
 };
 
-export default Fetching;
+export default Devices;

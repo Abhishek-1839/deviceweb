@@ -1,0 +1,53 @@
+body{
+    background-color: #ffffff;
+}
+.appliance-details {
+
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  
+  .top-details {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+  }
+  
+  .detail-item {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .detail-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  
+  }
+  
+  .detail-value {
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .additional-details h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #444;
+  }
+  
+  .detail-section {
+    margin-bottom: 20px;
+  }
+  
+  
+  
+  .detail-section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
